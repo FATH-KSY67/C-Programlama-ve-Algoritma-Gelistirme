@@ -1,9 +1,1 @@
-#include<stdio.h>
-
-int  main(){
-
-
-
-
-return0;
-}
+bu sayfa tamamen deneme amaçlı oluşturulmuş olup hiçbir geçerliliği yoktur.!!!
