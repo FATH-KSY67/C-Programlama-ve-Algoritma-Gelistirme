@@ -14,15 +14,15 @@ XOX Game code ==> bilgisayar ile kullanıcı arasında  basit seviye de xox oyun
 
 Example_6 ==> klavyeden girilen fahrenheit ve celcius değerlerini birbirine dönüştürür.
 
-Example_7 ==> kalvyeden girilen bir sayının tek mi çift mi olduğunu ekrana yazdıran kod.
+Example_7 ==> klavyeden girilen bir sayının tek mi çift mi olduğunu ekrana yazdıran kod.
 
 Çark Oyunu ==> bilgisayarın random olarak bir çark çevirmesi sonucu kullanıcının puan biriktirmesini sağlayan kod.
 
 Example_8 ==> klavyeden girilen 5 değeri bir dizi içinde toplayıp bu dizinin ortalamsını hesaplayan kod.
 
+Example_9 ==> klavyeden girilen sayıya kadarki sayıların toplamını veren program 
 
-
-
+Example_10 ==> faktöryel alama fonksiyonu kullanarak yazılmış bir program 
 
 
 
