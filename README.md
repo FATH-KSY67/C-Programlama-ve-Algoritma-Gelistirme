@@ -16,5 +16,9 @@ Example_6 ==> klavyeden girilen fahrenheit ve celcius değerlerini birbirine dö
 
 Example_7 ==> kalvyeden girilen bir sayının tek mi çift mi olduğunu ekrana yazdıran kod.
 
+Çark Oyunu ==> bilgisayarın random olarak bir çark çevirmesi sonucu kullanıcının puan biriktirmesini sağlayan kod.
+
+
+
 
 
