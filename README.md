@@ -9,3 +9,7 @@ Example_3 ==> bir küpün hacmini ve yüzey alanını hesaplayan program
 Example_4 ==> 3 dersin not ortsalamalarını hesaaplayan ve genel ortalamayı veren program
 
 Example_5 ==> kalvyeden girilen bir n sayısına kadar ki asal sayıları veren program 
+
+XOX Game code ==> bilgisayar ile kullanıcı arasında  basit seviye de xox oyunu oynatır.
+
+
