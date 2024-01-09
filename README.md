@@ -12,4 +12,7 @@ Example_5 ==> kalvyeden girilen bir n sayısına kadar ki asal sayıları veren 
 
 XOX Game code ==> bilgisayar ile kullanıcı arasında  basit seviye de xox oyunu oynatır.
 
+Example_6 ==> kalvyeden girilen bir sayının tek mi çift mi olduğunu ekrana yazdıran kod.
+
+
 
