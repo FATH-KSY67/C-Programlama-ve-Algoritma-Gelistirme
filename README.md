@@ -24,5 +24,6 @@ Example_9 ==> klavyeden girilen sayıya kadarki sayıların toplamını veren pr
 
 Example_10 ==> faktöryel alama fonksiyonu kullanarak yazılmış bir program 
 
+Example_11 ==> girilen dizinin ortalamsını hesaplayan programın kodu
 
 
