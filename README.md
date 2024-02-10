@@ -26,4 +26,6 @@ Example_10 ==> faktöryel alama fonksiyonu kullanarak yazılmış bir program
 
 Example_11 ==> girilen dizinin ortalamsını hesaplayan programın kodu
 
+Example_12 ==> dizinşn elemanlarını sıralayan programın kodu
+
 
