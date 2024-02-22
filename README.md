@@ -28,4 +28,5 @@ Example_11 ==> girilen dizinin ortalamsını hesaplayan programın kodu
 
 Example_12 ==> dizinşn elemanlarını sıralayan programın kodu
 
+Example_14 ==> girilen harf notuna göre öğrencinin geçip geçmediğini bildiren programın kodu
 
