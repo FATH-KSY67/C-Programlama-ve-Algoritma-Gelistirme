@@ -28,5 +28,7 @@ Example_11 ==> girilen dizinin ortalamsını hesaplayan programın kodu
 
 Example_12 ==> dizinşn elemanlarını sıralayan programın kodu
 
+Example_13 ==> klavyeden ayın yılın kaçıncı ayı olduğu girilen ayın adını yazdıran programın kodu
+
 Example_14 ==> girilen harf notuna göre öğrencinin geçip geçmediğini bildiren programın kodu
 
