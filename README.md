@@ -32,3 +32,5 @@ Example_13 ==> klavyeden ayın yılın kaçıncı ayı olduğu girilen ayın ad�
 
 Example_14 ==> girilen harf notuna göre öğrencinin geçip geçmediğini bildiren programın kodu
 
+Example_15 ==> girilen bilgilere göre net hesaplayan programın kodu
+
